@@ -1,0 +1,9 @@
+<link href="css/bootstrap.min.css" rel=stylesheet>
+<link href="css/animate.css" rel="stylesheet">
+<link href="css/themify-icons.css" rel="stylesheet">
+<link href="modules/slick/slick.css" rel="stylesheet">
+<link href="modules/slick/slick-theme.css" rel="stylesheet">
+<link href="modules/magnific-popup/magnific-popup.css" rel="stylesheet">
+<link href="modules/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+<link href="modules/owl-carousel/owl.theme.default.min.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
